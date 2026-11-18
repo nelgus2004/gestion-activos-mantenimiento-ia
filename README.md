@@ -16,7 +16,7 @@ Integrante ---Rol Asignado
 -	Gustavo Zambrano – QA & DevOps
 
 Estructura del Repositorio (GitFlow)
-El repositorio sigue la estrategia de ramificación “GitFlow”: main, rightarrow, develop, rightarrow y feature y está organizado bajo la siguiente arquitectura base:
+El repositorio sigue la estrategia de ramificación “GitFlow”: main>rightarrow>develop>rightarrow>feature y está organizado bajo la siguiente arquitectura base:
 gestion-activos-mantenimiento-ia/
 -	backend/Lógica de negocio, API RESTful y seguridad (JWT / RBAC)
 -	frontend/Interfaz de usuario y portal web interactivo
